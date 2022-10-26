@@ -1,1 +1,1 @@
-# Primfaktorzerlegung
+Link zur Funktion: https://portal.azure.com/?Microsoft_Azure_Education_correlationId=7cec094326e843f291fd3b7607b714d0&Microsoft_Azure_Education_newA4E=true&Microsoft_Azure_Education_asoSubGuid=16bef663-5542-449d-985f-818654795aae#view/WebsitesExtension/FunctionMenuBlade/~/code/resourceId/%2Fsubscriptions%2F16bef663-5542-449d-985f-818654795aae%2FresourceGroups%2Fprimfaktorzerlegung%2Fproviders%2FMicrosoft.Web%2Fsites%2FPrimfaktorzerlegung%2Ffunctions%2FPrimfaktorzerlegung
